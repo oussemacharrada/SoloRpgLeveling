@@ -1,12 +1,7 @@
 const Character = require('./../models/character');
 const APIFeatures = require('./../utils/apiFeatures');
 const catchAsync = require('./../utils/catchAsync');
-exports.aliasTopCharacters = (req, res, next) => {
-    req.query.limit = '5';
-    req.query.sort = '-importance,difficulty';
-    req.query.fields = 'title,notes,category,state,importance,difficulty,schedule';
-    next();
-}
+
 
 
 
@@ -86,22 +81,5 @@ exports.deleteCharacter = catchAsync(async(req, res, next) => {
             characters
         }
     });
-
-});
-
-exports.updateCharacter = catchAsync(async(req, res, next) => {
-
-    const character = await Character.findByIdAndUpdate(req.params.id, req.body, {
-        new: true,
-        runValidators: true
-    })
-    res.status(200).json({
-        status: 'success',
-        results: characters.length,
-        data: {
-            characters
-        }
-    });
-
 
 });

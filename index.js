@@ -7,6 +7,11 @@ const userRouter = require('./routes/userRoutes');
 const swaggerUI = require('swagger-ui-express');
 const swaggerJsDoc = require('swagger-jsdoc');
 const globalErrorHandler = require('./controllers/errorController');
+const categoryRouter = require('./routes/categoryRoutes');
+const characterRouter = require('./routes/characterRoutes');
+const petRouter = require('./routes/petRoutes');
+
+
 const options = {
     definition: {
         openapi: "3.0.0",
@@ -28,6 +33,11 @@ app.use(morgan('dev'));
 app.use('/tasks', taskRouter);
 app.use('/users', userRouter);
 app.use("/api-docs", swaggerUI.serve, swaggerUI.setup(specs))
+app.use('/character', characterRouter);
+app.use('/pet', petRouter);
+app.use('/categorys', categoryRouter);
+
+
 app.get('/', (req, res) => {
     res.status(200).json({ message: 'welcome to soloLeveling', app: 'sololeveling ' })
 })

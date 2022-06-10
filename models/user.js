@@ -29,6 +29,10 @@ const userSchema = new mongoose.Schema({
             message: 'passwords are not the same'
         }
 
+    },
+    isFirstTime: {
+        type: Boolean,
+        default: false
     }
 });
 userSchema.pre('save', async function(next) {

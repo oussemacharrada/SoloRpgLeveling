@@ -5,7 +5,7 @@ const taskSchema = new mongoose.Schema({
 
     title: {
         type: String,
-        require: [true, "A task must have a title"],
+        required: [true, "A task must have a title"],
         default: "New Task",
         trim: true
 
@@ -13,11 +13,8 @@ const taskSchema = new mongoose.Schema({
     notes: {
         type: String,
         require: [true, "A task must have a description"],
-
         default: "Description",
         trim: true
-
-
     },
     category: {
         type: mongoose.Schema.Types.ObjectId,
@@ -44,9 +41,12 @@ const taskSchema = new mongoose.Schema({
         default: 1,
         trim: true
     },
-    schedule:{
-        type:datetime,
-        
+
+    startingTime: {
+        type: Date,
+    },
+    deadline: {
+        type: Date,
     }
 
 }, {

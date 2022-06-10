@@ -1,35 +1,48 @@
 const mongoose = require('mongoose');
 
 
-const characterSchema = mongoose.Schema({
+const petSchema = mongoose.Schema({
 
     name: {
         type: String,
-        required: true
+        required: [true, "A pet must have a name"],
+        default: "new petName",
+        trim: true
     },
     level: {
-        type: String,
-        required: true
+        type: Number,
+        required: true,
+        default: 1
     },
     experience: {
-        type: String,
-        required: true
+        type: Number,
+        required: true,
+        default: 0
     },
     health: {
-        type: String,
-        required: true
+        type: Number,
+        required: true,
+        default: 0
     },
     image: {
         type: String,
-        required: true
+        required: [true, "A pet must have an image"],
+        default: "new image",
+        trim: true
     },
     type: {
         type: String,
-        required: true
+        required: [true, "A pet must have a type"],
+        default: "new pet type",
+        trim: true
     },
+    ownerID: {
+        type: String,
+        required: true
+    }
 
 }, {
     timestamps: true
 
 });
-module.exports = mongoose.model('Character', characterSchema);
+module.exports = mongoose.model('Pet', petSchema);
