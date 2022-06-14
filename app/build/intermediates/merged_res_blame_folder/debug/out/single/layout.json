@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\settings_activity.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\login_activity.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\fragment_animal.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_animal.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\choosecharchter.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\choosecharchter.xml"
+    },
+    {
+        "merged": "com.example.miniprojet.app-mergeDebugResources-32:/layout/activity_sign_up.xml",
+        "source": "com.example.miniprojet.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\signup_activity.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\signup_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\splashscreen.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\fragment_task.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\fragment_rewards.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_rewards.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\card_layout.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-mergeDebugResources-32:\\layout\\chooseanimal.xml",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\chooseanimal.xml"
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\menu_item_men.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\menu\\item_men.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-xxhdpi_ic_profile_svgrepo_com.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-xxhdpi\\ic_profile_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_turtle.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\turtle.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_knight.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\knight.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_woman.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\woman.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_cat.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\cat.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_background2.jpg.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\background2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_splashscreen.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-xhdpi_ic_profile_svgrepo_com.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-xhdpi\\ic_profile_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_fragment_task.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_card_layout.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_ic_claim_rewards_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\ic_claim_rewards_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\xml_root_preferences.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\xml\\root_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-ldpi_ic_profile_svgrepo_com.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-ldpi\\ic_profile_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_choosecharchter.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\choosecharchter.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_signup_activity.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\signup_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_fallenangel.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\fallenangel.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-hdpi_ic_profile_svgrepo_com.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-hdpi\\ic_profile_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_edittext.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-xxxhdpi_ic_profile_svgrepo_com.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-xxxhdpi\\ic_profile_svgrepo_com.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_background.jpg.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_login_activity.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_ic_animal_dog_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\ic_animal_dog_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_dog.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\dog.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_round_corner.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_orc.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\orc.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_man.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_ic_tasks_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\ic_tasks_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_chooseanimal.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\chooseanimal.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_settings_activity.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_fragment_rewards.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_rewards.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_knight2.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\knight2.png"
+    },
+    {
+        "merged": "com.example.miniprojet.app-merged_res-33:/xml_network_security_config.xml.flat",
+        "source": "com.example.miniprojet.app-main-35:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_button1.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\button1.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout_fragment_animal.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout\\fragment_animal.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout-w1240dp_activity_login.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout-w1240dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-anydpi-v24_ic_profile_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-anydpi-v24\\ic_profile_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\layout-w936dp_activity_login.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\layout-w936dp\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable_item_selector.xml.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-main-35:\\drawable\\item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-merged_res-33:\\drawable-mdpi_ic_profile_svgrepo_com.png.flat",
+        "source": "C:\\Users\\oussema\\.gradle\\daemon\\7.3.3\\com.example.miniprojet.app-pngs-28:\\drawable-mdpi\\ic_profile_svgrepo_com.png"
+    }
+]

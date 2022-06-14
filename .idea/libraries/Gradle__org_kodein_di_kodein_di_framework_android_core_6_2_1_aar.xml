@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kodein.di:kodein-di-framework-android-core:6.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/73bd8cabc20de468a9f2c62e42fb2cc7/transformed/kodein-di-framework-android-core-6.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/03e0c841374a325be4c9fbf1cd03bccb/transformed/kodein-di-framework-android-core-6.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/52d1dbdf22e3dabbd2259bef58e0b409/transformed/kodein-di-framework-android-core-6.2.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/52d1dbdf22e3dabbd2259bef58e0b409/transformed/kodein-di-framework-android-core-6.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/52d1dbdf22e3dabbd2259bef58e0b409/transformed/kodein-di-framework-android-core-6.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kodein.di/kodein-di-framework-android-core/6.2.1/dc3208f290d4310ffecbd6336b37d0726977fe0d/kodein-di-framework-android-core-6.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
